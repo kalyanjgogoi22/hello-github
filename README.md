@@ -1,5 +1,5 @@
 # hello-github
 
-My first respitory in GitHub
+My first repository in GitHub
 
 I love ☕, 🏈 and ⛰️.
